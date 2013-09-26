@@ -7,9 +7,9 @@ source "${DEV_TOOLBOX}/bash/scripts/bookmarks.sh"
 # PHP Dev
 
 # CYGWIN
-alias php="/cygdrive/c/Program\ Files\ \(x86\)/PHP/php.exe"
+#alias php="/cygdrive/c/Program\ Files\ \(x86\)/PHP/php.exe"
 alias composer="php C:/workspace/tools/composer.phar"
-alias phpunit="php C:/Program\ Files\ \(x86\)/PHP/phpunit"
+alias phpunit="php C:/workspace/tools/phpunit.phar"
 
 # Interactive operation...
 alias rm='rm -i'
